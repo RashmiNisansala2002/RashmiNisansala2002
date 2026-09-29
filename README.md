@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React.js+%F0%9F%9A%80;DevOps+%26+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Building+Scalable+Backend+Systems+%E2%9A%99%EF%B8%8F;Let%27s+Collaborate+and+Build+Something+Great!" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- ── SOCIAL BADGES ───────────────────────────────────────── -->
 <a href="https://github.com/RashmiNisansala2002">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- ── PROFILE METRICS ─────────────────────────────────────── -->
 [![](https://komarev.com/ghpvc/?username=RashmiNisansala2002&color=blue)](https://visitcount.itsvg.in)
