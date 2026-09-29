@@ -48,7 +48,8 @@
 
 👋 &nbsp;Hi! I'm **RASHMI NISANSALA**, a passionate Software Engineer and Full-Stack Developer 
 
-💻 &nbsp;I specialize in building **scalable web applications**, designing robust **REST APIs**, and managing **cloud infrastructure & DevOps pipelines**.
+💻 &nbsp;I specialize in building **I specialize in building **responsive web applications**, developing **REST APIs**, integrating **frontend and backend services**, and ensuring **software quality through functional and automated testing**.
+**.
 
 🌱 &nbsp;Highly experienced in **Java, Python, React.js, and Codeigniter**, constantly expanding my architectural knowledge.
 
