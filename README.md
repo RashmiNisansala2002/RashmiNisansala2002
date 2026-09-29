@@ -31,14 +31,8 @@
 <br/><br/>
 
 <!-- ── PROFILE METRICS ─────────────────────────────────────── -->
-<img src="https://komarev.com/ghpvc/?username=RashmiNisansala2002
-&label=Profile+Views&color=58A6FF&style=flat-square" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/RashmiNisansala2002
-?label=Followers&style=flat-square&color=58A6FF&labelColor=1c1c1c" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/RashmiNisansala2002
-?label=Stars&style=flat-square&color=58A6FF&labelColor=1c1c1c" />
+[![](https://komarev.com/ghpvc/?username=RashmiNisansala2002&color=blue)](https://visitcount.itsvg.in)
+
 
 </div>
 
