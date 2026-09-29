@@ -219,18 +219,17 @@
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=RashmiNisansala2002
-&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Dinuka's+GitHub+Stats&icon_color=58A6FF&title_color=58A6FF" width="415" />
-    </td>
-    <td valign="top">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=RashmiNisansala2002
-&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&background=22272e&stroke=58A6FF" width="415" />
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.shion.dev/api?username=RashmiNisansala2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<br>
+
+![](https://streak-stats.demolab.com/?user=RashmiNisansala2002&theme=dark&hide_border=false)
+
+<br>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RashmiNisansala2002&theme=dark&hide_border=false&layout=compact)
+
+<br><br>
 
 </div>
 
