@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ── HEADER BANNER ───────────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=RASHMI%20NISANSALA&fontSize=50&fontColor=fff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20QAEngineer%20%E2%80%A2%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=15&descAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=RASHMI%20NISANSALA&fontSize=50&fontColor=fff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20QA20%Engineer%20%E2%80%A2%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=15&descAlignY=55&animation=twinkling" />
 
 <!-- ── TYPING ANIMATION ─────────────────────────────────────── -->
 <a href="https://github.com/RashmiNisansala2002">
